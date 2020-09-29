@@ -47,7 +47,9 @@ quote[8] = '''
 quote[9] = '''
     He's not Quite dead.
     '''
-
+quote[10] = '''
+   How can you tell he is a king?
+   '''
 
 def holy_grail(num):
     return quote[num]
